@@ -1,0 +1,11 @@
+@import "ember-bootstrap/bootstrap";
+
+body {
+
+  $main-color: gold;
+
+  h1 {
+    color: $main-color;
+  }
+
+}
