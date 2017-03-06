@@ -1,5 +1,6 @@
 {
   "name": "todo-list",
   "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
   }
 }
